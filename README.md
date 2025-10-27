@@ -22,10 +22,12 @@ git clone [https://github.com/yourusername/DEEPFAKE.git](https://github.com/Mano
 cd DEEPFAKE
 2. Install Requirements
 It is recommended to use a virtual environment.
-
 bash
 pip install -r requirements.txt
-3. Prepare the Dataset
+
+
+
+4. Prepare the Dataset
 Place your deepfake dataset inside the dataset/ folder.
 
 Ensure the directory and file structure matches the expected format in main.py.
