@@ -18,7 +18,7 @@ requirements.txt — Python dependencies for this project.
 Getting Started
 1. Clone the Repository
 bash
-git clone https://github.com/yourusername/DEEPFAKE.git
+git clone [https://github.com/yourusername/DEEPFAKE.git](https://github.com/Manohar-123272/Deepfake)
 cd DEEPFAKE
 2. Install Requirements
 It is recommended to use a virtual environment.
